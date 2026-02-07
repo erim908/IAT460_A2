@@ -1,13 +1,15 @@
+Bright: Optimistic tone (warm, clear, hopeful)
+Dark: Somber tone (cold, grim, lonely)
 
-# Rule-Based Story Generator - Requirements
-# This project uses only Python standard library modules
+Story Elements:
+Characters: Teachers, students, instructors
+Settings: Libraries, classrooms, labs
+Plot: Goals, obstacles, actions, outcomes, lessons
+Structure: Title + 3 paragraphs (setup, conflict, resolution)
+Minimum 100 words per story
 
-# Python version required: 3.6+
+Output
+Generates 5 sample stories:
 
-# Standard library modules used:
-# random (for random selection of grammar rules)
-
-
-# No external packages required
-# To verify your Python version:
-# python 
+Examples 1-3: Bright ruleset
+Examples 4-5: Dark ruleset
