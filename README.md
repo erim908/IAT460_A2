@@ -1,15 +1,20 @@
-Bright: Optimistic tone (warm, clear, hopeful)
-Dark: Somber tone (cold, grim, lonely)
+Procedural Story Generator
+IAT460 - A2: Rule-Based System**  
+Eri Masahisa (301604643)
 
-Story Elements:
-Characters: Teachers, students, instructors
-Settings: Libraries, classrooms, labs
-Plot: Goals, obstacles, actions, outcomes, lessons
-Structure: Title + 3 paragraphs (setup, conflict, resolution)
-Minimum 100 words per story
+How to Run
+
+ Requirements
+- Python 
+- No external libraries needed (uses standard library only)
+
+Steps
+1. Open `IAT460A2.ipynb` in Jupyter Notebook or Google Colab
+2. Run all cells
+3. Stories will be printed and saved to `outputs/` folder
 
 Output
-Generates 5 sample stories:
-
-Examples 1-3: Bright ruleset
-Examples 4-5: Dark ruleset
+- 5 story files in `outputs/` folder
+- Stories 1-3: Bright tone
+- Stories 4-5: Dark tone
+- All stories are 100+ words
