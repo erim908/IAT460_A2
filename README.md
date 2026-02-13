@@ -1,5 +1,5 @@
 Procedural Story Generator
-IAT460 - A2: Rule-Based System**  
+IAT460 - A2: Rule-Based System  
 Eri Masahisa (301604643)
 
 How to Run
